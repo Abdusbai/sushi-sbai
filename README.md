@@ -1,1 +1,1 @@
-![External Image](https://github.com/Abdusbai/img/blob/main/og-img-readlogix.jpg?raw=true)
+![External Image](https://raw.githubusercontent.com/Abdusbai/img/main/sushi-food-full-page.webp)
